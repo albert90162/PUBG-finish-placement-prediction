@@ -17,7 +17,7 @@
 3. [駕駛距離分析 The Drivers](#the-drivers)
 4. [游泳距離分析 The Swimmers](#the-swimmers)
 5. [補給藥品分析 The Healers](#the-healers)
-6. [遊戲模式分析 Solo, Duos and Squads](#solo,-duos-and-squads)
+6. [遊戲模式分析 Solos, Duos and Squads](#solos,-duos-and-squads)
 7. [最終排名與各項特徵的關係](#最終排名與各項特徵的關係)
 8. [結論](#結論)
 <br>
@@ -108,7 +108,7 @@
 
 
 
-# The Healers:<br>
+## The Healers:<br>
 
 在將近450萬筆的玩家中，每位玩家一場遊戲平均會使用 1.4 個 heals item，其中 99% 的人使用不超過 12 個，而一場比賽中使用掉最多 heals item 是 80 個。
 至於 boost item，每位玩家一場遊戲平均會使用 1.1 個，其中 99% 的人不使用超過 7 個，一場比賽最多次使用 boost item 的紀錄是 33 個<br>
