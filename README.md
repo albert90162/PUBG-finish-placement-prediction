@@ -7,8 +7,9 @@
 #### 分析流程：描述性統計分析 --> 特徵分布狀況 --> (例外狀況) --> 特徵與最終排名關係
 #### 使用工具：matplotlib & seaborn
 #### 資料大小：4446966 rows * 29 columns (628MB)
-#### 資料來源：https://www.kaggle.com/c/pubg-finish-placement-prediction
-#### 程式碼：https://github.com/albert90162/PUBG-finish-placement-prediction/blob/master/PUBG_EDA%20and%20Visualization.ipynb
+#### [資料來源](https://www.kaggle.com/c/pubg-finish-placement-prediction) |  [程式碼](https://github.com/albert90162/PUBG-finish-placement-prediction/blob/master/PUBG_EDA%20and%20Visualization.ipynb)
+
+<br>
 
 #### 目錄：
 1. [殺敵數分析 The Killers](#the-killers)
